@@ -11,6 +11,7 @@ ScriptsOnlyBuild:
     - ScrollerScript
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
+    - UnityEditor.Tilemaps.GridBrushEditor
     - UnityEditor.Tilemaps.GridPaintPaletteClipboard
     - UnityEditor.Tilemaps.GridPaintPaletteWindow
     - UnityEditor.Tilemaps.GridPaintingState
@@ -799,5 +800,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: G:/Unity/skillbox game1/Releases/0.0.2 ('for Softium') (Build 16.12.2020
-    20-53)/files/Cosmo Space.exe
+  playerPath: G:/Unity/skillbox game1/BUILD/01.01.2021 21-14/files/Cosmo Space.exe
